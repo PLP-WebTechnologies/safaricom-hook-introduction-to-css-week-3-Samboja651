@@ -1,0 +1,40 @@
+/* part one */
+h1, h3{
+    font-size: 30px;
+}
+.intro{
+    background-color: mediumseagreen;
+}
+#id{
+    border-bottom: 2px solid black;
+}
+/* part2 */
+body{
+    background-color: lightgray;
+}
+a{
+    font-size: larger;
+}
+a:hover{
+    font-size: x-large;
+}
+a:visited{
+    color: purple;
+}
+footer{
+    background-color: lightslategrey;
+    padding: 10px;
+    margin-bottom: 0;
+}
+/* part 3 */
+p{
+    text-align: center;
+    line-height: 1.5;
+}
+/* card */
+.interests{
+    border: 2px solid black;
+    margin-bottom: 5%;
+    width: fit-content;
+    padding: 0px 0px;
+}
